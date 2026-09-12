@@ -28,9 +28,9 @@ This repository serves as my structured portfolio 🗂️, archiving the core pr
 
 <br><br>
 
-<!-- Effetto VS Code Pets: Gattino animato in pixel art allineato a sinistra -->
+<!-- Effetto VS Code Pets: Gattino animato allineato a sinistra -->
 <div align="left">
-  <img src="https://media.tenor.com/Z4wA0iE-G5cAAAAi/cat-pixel.gif" width="60" alt="VS Code Pet Cat" />
+  <img src="https://raw.githubusercontent.com/wzulfikar/wzulfikar/master/cat.gif" width="60" alt="VS Code Pet Cat" />
 </div>
 
 <div align="center">
