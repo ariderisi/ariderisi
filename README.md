@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff69b4&height=220&section=header&text=Hi,%20I'm%20Arianna&fontSize=50&animation=fadeIn&fontColor=ffffff&width=100%" width="100%" alt="Header" />
+  <!-- Sfondo animato: gradiente rosa fluido a 3 colori con effetto stelle scintillanti (twinkling) e onda in basso -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-ffc0cb,50-ffb6c1,100-ff69b4&height=250&section=header&text=Hi,%20I'm%20Arianna&fontSize=50&animation=twinkling&fontColor=ffffff&width=100%" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Cybersecurity+Master's+Student+✨;Thesis+Researcher+🔐;System+Security+%26+Software+💻;BSc+%26+MSc+Academic+Archive+🌸" alt="Typing SVG" />
+  <!-- Animazione di battitura corretta: link stabile e testo pulito per evitare errori di caricamento -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Cybersecurity+Master's+Student;Thesis+Researcher;System+Security+%26+Software;BSc+%26+MSc+Academic+Archive" alt="Typing Text" />
 </div>
 
 <br>
@@ -26,10 +28,12 @@ This repository serves as my structured portfolio 🗂️, archiving the core pr
 
 <br><br>
 
+<!-- Effetto VS Code Pets: Gattino animato in pixel art allineato a sinistra -->
 <div align="left">
   <img src="https://media.tenor.com/Z4wA0iE-G5cAAAAi/cat-pixel.gif" width="60" alt="VS Code Pet Cat" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=120&section=footer&width=100%" width="100%" alt="Footer" />
+  <!-- Onda di chiusura coerente con i nuovi colori -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-ff69b4,50-ffb6c1,100-ffc0cb&height=120&section=footer&width=100%" width="100%" alt="Footer" />
 </div>
