@@ -4,42 +4,73 @@
 </div>
 
 <div align="center">
-  <!-- Scritta animata aggiornata con i tuoi veri interessi e senza termini nerd -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Master's+Candidate+in+Cybersecurity;Drawn+to+Ethical+Hacking+%26+Penetration+Testing;Highly+Organized+%26+Determined;Continuous+Learner+✨" alt="Typing SVG" />
+  <!-- Scritta animata pulita e focalizzata -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Master's+Candidate+in+Cybersecurity;Penetration+Testing+%26+Ethical+Hacking;Highly+Organized+%26+Determined;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <br>
 
-<div align="center">
+<!-- INIZIO LAYOUT PREMIUM CON TABELLE HTML -->
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    
+    <!-- Colonna Sinistra: Mission -->
+    <td width="50%" valign="top" style="border: none; background-color: transparent;">
+      <h3 align="center">🌸 Academic Mission</h3>
+      <ul>
+        <li><b>Status:</b> MSc Cybersecurity Candidate.</li>
+        <li><b>Focus:</b> Advanced thesis research & system defense.</li>
+        <li><b>Archive:</b> BSc & MSc software engineering projects.</li>
+      </ul>
+    </td>
 
-<!-- Prima Tabella: Mission e Stack Tecnico -->
-| 🌸 About My Mission | 💻 Tech Stack |
-| :--- | :--- |
-| <br><ul><li><b>Status:</b> MSc Cybersecurity Candidate.</li><li><b>Focus:</b> Advanced thesis research & system defense.</li><li><b>Archive:</b> BSc & MSc algorithms and software engineering projects.</li></ul><br> | <br><div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,linux,bash,git,java,c,sqlite&theme=dark&perline=4" alt="Tech Stack" /></a></div><br> |
+    <!-- Colonna Destra: Tech Stack -->
+    <td width="50%" valign="top" align="center" style="border: none; background-color: transparent;">
+      <h3 align="center">💻 Tech Stack</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,cpp,linux,bash,git,java,c,sqlite&theme=dark&perline=4" alt="Tech Stack" />
+      </a>
+    </td>
+
+  </tr>
+</table>
 
 <br>
 
-### 📊 Language Proficiency Matrix
+<!-- Sezione Interessi e Bio aggiornata -->
+<h3 align="center">🌿 Beyond the Screen</h3>
 
-<!-- Seconda Tabella: Percentuali con barre di progresso personalizzate -->
-| 🟢 Core Technology | 🌸 Proficiency / Usage | 
-| :--- | :--- |
-| **Python** | <img src="https://geps.dev/progress/90?color=FF1493" height="18"> &nbsp; 90% |
-| **C / C++** | <img src="https://geps.dev/progress/80?color=39FF14" height="18"> &nbsp; 80% |
-| **Linux / Bash** | <img src="https://geps.dev/progress/85?color=FF1493" height="18"> &nbsp; 85% |
-| **Java** | <img src="https://geps.dev/progress/70?color=39FF14" height="18"> &nbsp; 70% |
-| **SQL / DBs** | <img src="https://geps.dev/progress/75?color=FF1493" height="18"> &nbsp; 75% |
-
-</div>
+> 🧠 **Mindset & Interests:** I am a curious and highly organized person, driven by continuous learning. Outside of tech, I focus on personal growth through fitness, studying new languages, and music.<br>
+> 👾 **Cyber Focus:** Within the broad cybersecurity landscape, I am particularly drawn to Penetration Testing and Ethical Hacking.<br>
+> 🚀 **Next Goal:** After completing my degree, I plan to pursue a 2nd-level Master's to further specialize and expand my technical expertise.
 
 <br>
 
-### 🌿 Beyond the Screen
-> **Who am I?** I'm a highly curious, determined, and organized person with a very outgoing personality. I strongly believe in continuous self-improvement, both culturally and psychologically. When I'm not studying, you'll find me working out, learning new languages, or listening to music. 🎧
-> 
-> **My Cyber Focus:** While I love exploring all areas of cybersecurity, I am particularly drawn to **Penetration Testing and Ethical Hacking**. 👾
->
-> **What's Next?** After getting my Master's Degree, my goal is to pursue a 2nd-level Master's (Master di 2° Livello) to keep enriching my technical toolkit and expanding my horizons! 🚀
+<!-- Tabella HTML per la matrice dei linguaggi (più compatta e allineata) -->
+<h3 align="center">📊 Language Proficiency Matrix</h3>
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="right" style="border: none;"><b>Python</b></td>
+    <td style="border: none;"><img src="https://geps.dev/progress/90?color=FF1493" height="18"></td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td align="right" style="border: none;"><b>C / C++</b></td>
+    <td style="border: none;"><img src="https://geps.dev/progress/80?color=39FF14" height="18"></td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td align="right" style="border: none;"><b>Linux / Bash</b></td>
+    <td style="border: none;"><img src="https://geps.dev/progress/85?color=FF1493" height="18"></td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td align="right" style="border: none;"><b>Java</b></td>
+    <td style="border: none;"><img src="https://geps.dev/progress/70?color=39FF14" height="18"></td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td align="right" style="border: none;"><b>SQL / DBs</b></td>
+    <td style="border: none;"><img src="https://geps.dev/progress/75?color=FF1493" height="18"></td>
+  </tr>
+</table>
 
 <br>
 
