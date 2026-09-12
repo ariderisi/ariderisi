@@ -1,39 +1,49 @@
 <div align="center">
-  <!-- Sfondo animato: gradiente rosa fluido a 3 colori con effetto stelle scintillanti (twinkling) e onda in basso -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-ffc0cb,50-ffb6c1,100-ff69b4&height=250&section=header&text=Hi,%20I'm%20Arianna&fontSize=50&animation=twinkling&fontColor=ffffff&width=100%" width="100%" alt="Header" />
-</div>
-
-<div align="center">
-  <!-- Animazione di battitura corretta: link stabile e testo pulito per evitare errori di caricamento -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Cybersecurity+Master's+Student;Thesis+Researcher;System+Security+%26+Software;BSc+%26+MSc+Academic+Archive" alt="Typing Text" />
-</div>
-
-<br>
-
-### ✨ About Me 🌸
-
-I am currently completing my **Master's Degree in Cybersecurity** 🔐. My primary focus right now is my thesis research, where I am exploring complex security challenges and applying the concepts learned throughout my academic career 🧠✨. 
-
-This repository serves as my structured portfolio 🗂️, archiving the core projects, algorithms, and system security implementations developed during both my Bachelor's and Master's degree courses 🎓🎀.
-
-<br>
-
-### 🛠️ Tech Stack 💖
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git,bash,java,sqlite&theme=light" alt="Tech Stack" />
+  <!-- Terminale Hacker Animato (Effetto Wow): Simula un login di sistema in stile CyberSec -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&background=1E1E1E&center=true&vCenter=true&width=800&height=130&lines=>_+ssh+root@arianna-system...;>_+Authenticating+User...;>_+Access+Granted:+MSc_CyberSec_Node+✨;>_+Initializing+Pastel_Hacker_OS+🌸" alt="Terminal Header" style="border-radius: 10px;"/>
   </a>
 </div>
 
-<br><br>
+<br>
 
-<!-- Effetto VS Code Pets: Gattino animato allineato a sinistra -->
+<!-- Dashboard Layout: Struttura a griglia da vera interfaccia software -->
+<table width="100%" align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Colonna Sinistra: I tuoi dati di sistema -->
+    <td width="60%" style="border: none;">
+      <h3>🌸 <code>sys.info()</code> // The Operator</h3>
+      <p>
+        🔐 <b>Status:</b> MSc Cybersecurity Candidate.<br>
+        🧠 <b>Mission:</b> Advanced Thesis Research & Threat Mitigation.<br>
+        🗂️ <b>Database:</b> Archiving algorithms, secure protocols, and BSc/MSc exploits.<br>
+        ✨ <b>Vibe:</b> Pastel hacker balancing robust code with aesthetic interfaces.
+      </p>
+    </td>
+    <!-- Colonna Destra: Il tuo Arsenale -->
+    <td width="40%" align="center" style="border: none;">
+      <h3>⚔️ <code>load_arsenal()</code></h3>
+      <a href="https://skillicons.dev">
+        <!-- Icone passate in tema SCURO per fare contrasto con l'estetica hacker -->
+        <img src="https://skillicons.dev/icons?i=py,cpp,linux,bash,git,java,c,sqlite&theme=dark&perline=4" alt="Arsenal" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <!-- Separatore animato che fa molto Cyberpunk -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF69B4&height=50&section=footer&text=----------------------------------------&fontSize=20&animation=twinkling" alt="Separator" />
+</div>
+
+<!-- Il tuo gattino pet di VS Code allineato a sinistra -->
 <div align="left">
-  <img src="https://raw.githubusercontent.com/wzulfikar/wzulfikar/master/cat.gif" width="60" alt="VS Code Pet Cat" />
+  <img src="https://media.tenor.com/bZeNTBBlxL8AAAAi/pixel-cat-cat.gif" width="60" alt="Cyber Pet" />
 </div>
 
 <div align="center">
-  <!-- Onda di chiusura coerente con i nuovi colori -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-ff69b4,50-ffb6c1,100-ffc0cb&height=120&section=footer&width=100%" width="100%" alt="Footer" />
+  <!-- Onda di chiusura con colori da terminale hacker (Nero e Fucsia) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-1E1E1E,50-FF69B4,100-FFB6C1&height=120&section=footer&width=100%" width="100%" alt="Footer" />
 </div>
