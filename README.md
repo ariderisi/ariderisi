@@ -23,3 +23,14 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FFB6C1" alt="Linux" />
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FFB6C1" alt="Git" />
 </div>
+
+---
+
+### 📊 GitHub Stats & Languages 🎀
+
+<div align="center">
+  <!-- Sostituisci con gli URL delle immagini caricate nel tuo repository -->
+  <img src="github-stats.png" alt="Statistiche ariderisi" />
+  <br />
+  <img src="top-languages.png" alt="Linguaggi più usati" />
+</div>
