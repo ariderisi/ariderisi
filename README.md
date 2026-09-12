@@ -1,20 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Arianna&fontSize=50&animation=fadeIn" alt="Header" />
+  <!-- Sostituisci con l'URL dell'immagine caricata nel tuo repository -->
+  <img src="profile-banner.png" alt="Header" />
 </div>
 
-### 👋 About Me
+### 👋 About Me 💖
 
-- 🎓 I'm a Master's student in Cybersecurity, almost ready to graduate!
-- 🔭 Currently, I'm putting all my energy into my thesis project.
-- 🗂️ This GitHub is my academic archive: you'll find projects from both my BSc and MSc courses here.
-- 🌱 Always learning and trying to figure things out.
+- 🎓 Master's student in Cybersecurity, almost done! 🎉
+- 🔬 Currently, all my energy is on my thesis. 🧠✨
+- 🐱 My profile is a cozy collection of BSc and MSc projects. 🐾
+- 🌿 Learning, growing, and loving nature. 🌸
 
 ---
 
-### 📊 My GitHub Stats
+### 🛠️ Tech Stack & Tools 💫
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariderisi&show_icons=true&theme=radium&hide_border=true" alt="Statistiche ariderisi" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariderisi&layout=compact&theme=radium&hide_border=true" alt="Linguaggi più usati" />
+  <!-- Badge personalizzati con tema gatto rosa e glitter per i linguaggi comuni -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFB6C1" alt="Python" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFB6C1" alt="JavaScript" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=FFB6C1" alt="C++" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=FFB6C1" alt="SQL" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FFB6C1" alt="Linux" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FFB6C1" alt="Git" />
 </div>
