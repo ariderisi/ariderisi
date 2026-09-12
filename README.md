@@ -8,9 +8,9 @@
 
 <br>
 
-<table width="100%" style="border: none; background-color: transparent;">
+<table align="center" style="border: none; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
-<td width="50%" valign="top" style="border: none; background-color: transparent;">
+<td valign="top" style="border: none; background-color: transparent;">
 <h3 align="center">🌸 Academic Mission</h3>
 <ul>
 <li><b>Status:</b> MSc Cybersecurity Candidate.</li>
@@ -18,7 +18,7 @@
 <li><b>Archive:</b> BSc & MSc software engineering projects.</li>
 </ul>
 </td>
-<td width="50%" valign="top" align="center" style="border: none; background-color: transparent;">
+<td valign="top" align="center" style="border: none; background-color: transparent;">
 <h3 align="center">💻 Tech Stack</h3>
 <br>
 <a href="https://skillicons.dev">
