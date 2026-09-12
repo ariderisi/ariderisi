@@ -8,18 +8,6 @@
 
 <br>
 
-<div align="center">
-<!-- Badge Social (LinkedIn e Email) in stile Dark/Neon -->
-<a href="https://linkedin.com/in/TUO_LINKEDIN_QUI" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" />
-</a>
-<a href="mailto:TUA_EMAIL_QUI">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=FF1493" alt="Email" />
-</a>
-</div>
-
-<br>
-
 <table align="center" style="border: none; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
 <td valign="top" style="border: none; background-color: transparent;">
@@ -55,32 +43,27 @@
 <table align="center" style="border: none; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
 <td align="right" style="border: none;"><b>Python</b></td>
-<td style="border: none;"><img src="https://geps.dev/progress/90?color=FF1493" height="18"></td>
+<td style="border: none;"><img src="https://geps.dev/progress/90?color=FF1493" height="18" style="border-radius: 10px;"></td>
 </tr>
 <tr style="border: none; background-color: transparent;">
 <td align="right" style="border: none;"><b>C / C++</b></td>
-<td style="border: none;"><img src="https://geps.dev/progress/80?color=39FF14" height="18"></td>
+<td style="border: none;"><img src="https://geps.dev/progress/80?color=39FF14" height="18" style="border-radius: 10px;"></td>
 </tr>
 <tr style="border: none; background-color: transparent;">
 <td align="right" style="border: none;"><b>Linux / Bash</b></td>
-<td style="border: none;"><img src="https://geps.dev/progress/85?color=FF1493" height="18"></td>
+<td style="border: none;"><img src="https://geps.dev/progress/85?color=FF1493" height="18" style="border-radius: 10px;"></td>
 </tr>
 <tr style="border: none; background-color: transparent;">
 <td align="right" style="border: none;"><b>Java</b></td>
-<td style="border: none;"><img src="https://geps.dev/progress/70?color=39FF14" height="18"></td>
+<td style="border: none;"><img src="https://geps.dev/progress/70?color=39FF14" height="18" style="border-radius: 10px;"></td>
 </tr>
 <tr style="border: none; background-color: transparent;">
 <td align="right" style="border: none;"><b>SQL / DBs</b></td>
-<td style="border: none;"><img src="https://geps.dev/progress/75?color=FF1493" height="18"></td>
+<td style="border: none;"><img src="https://geps.dev/progress/75?color=FF1493" height="18" style="border-radius: 10px;"></td>
 </tr>
 </table>
 
-<br><br>
-
-<div align="center">
-<!-- Contatore di visite Verde Neon dinamico -->
-<img src="https://komarev.com/ghpvc/?username=ariderisi&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
-</div>
+<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-39FF14,100-FF1493&height=120&section=footer&width=100%" width="100%" alt="Footer" />
