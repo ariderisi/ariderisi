@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Arianna&fontSize=50&animation=fadeIn" alt="Header" />
+</div>
 
-<!--
-**ariderisi/ariderisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm a Master's student in Cybersecurity, almost ready to graduate!
+- 🔭 Currently, I'm putting all my energy into my thesis project.
+- 🗂️ This GitHub is my academic archive: you'll find projects from both my BSc and MSc courses here.
+- 🌱 Always learning and trying to figure things out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariderisi&show_icons=true&theme=radium&hide_border=true" alt="Statistiche ariderisi" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariderisi&layout=compact&theme=radium&hide_border=true" alt="Linguaggi più usati" />
+</div>
