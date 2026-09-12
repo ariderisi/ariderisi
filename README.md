@@ -1,40 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff69b4&height=250&section=header&text=Hi!%20I'm%20Arianna%20🌸&fontSize=50&animation=fadeIn&fontColor=ffffff&width=100%" width="100%" alt="Header" />
+  <!-- Banner con bordo morbido e scintillio (twinkling) -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb6c1,100:ff69b4&height=220&section=header&text=Arianna's%20Digital%20Garden%20🌸&fontSize=50&animation=twinkling&fontColor=ffffff&width=100%" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <!-- Testi dinamici più professionali legati alla Cybersecurity -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Master's+Student+in+Cybersecurity+🛡️;Building+my+Thesis+Project+🚀;Securing+Systems+%26+Writing+Code+💻" alt="Typing SVG" />
+  <!-- Animazione di battitura con font calligrafico "Pacifico" -->
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=500&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Master's+Student+in+Cybersecurity+🛡️;Securing+Systems+%26+Writing+Code+💻;Cat+%26+Nature+Lover+🐈🌿" alt="Typing SVG" />
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h3>✨ My Academic Journey 🐾</h3>
-  <p>
-    🎓 Completing my <b>Master's Degree in Cybersecurity</b>.<br>
-    🔐 Currently deep-diving into research for my <b>thesis project</b>.<br>
-    💻 This profile archives my academic progress: algorithms, security protocols, and engineering projects.<br>
-    🌿 Finding the perfect balance between the digital world and nature.
-  </p>
+  <i>"Bridging the gap between robust security and elegant code."</i> 💫
 </div>
 
 <br>
 
+### 🌸 𝙰𝚋𝚘𝚞𝚝 𝙼𝚢 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 
+
+> 🎓 Wrapping up my **MSc in Cybersecurity**.<br>
+> 🔐 Currently deeply absorbed in my **thesis research**.<br>
+> 🐾 This space is my academic archive: a collection of algorithms, security protocols, and software projects.<br>
+
+<br>
+
+### 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 & 𝚃𝚘𝚘𝚕𝚜
+
 <div align="center">
-  <h3>🛠️ Tech Stack 💖</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,linux,git,bash,java,sqlite&theme=light" alt="My Skills" />
   </a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-  <!-- GIF trasparente del gattino pixel art che corre/gioca -->
+  <!-- Gattino arancione in pixel art che corre -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="80" alt="Pixel Cat Walking" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=120&section=footer&width=100%" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffb6c1&height=120&section=footer&width=100%" width="100%" alt="Footer" />
 </div>
