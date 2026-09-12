@@ -1,21 +1,25 @@
 <div align="center">
-  <!-- Banner Rosa Animato (Sfumato e Pulito) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-ffc0cb,100-ff69b4&height=220&section=header&text=Hi,%20I'm%20Arianna&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
-</div>
-
-<div align="center">
-  <!-- Testo Animato (Senza caratteri strani che bloccano il caricamento) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=MSc+Cybersecurity+Student;Thesis+Researcher;System+Security;Academic+Portfolio" alt="Typing Text" />
+  <!-- Terminale animato: Sfondo scuro, testo verde neon che si digita da solo -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=800&height=120&lines=>_+Hello,+I'm+Arianna;>_+MSc+Cybersecurity+Candidate;>_+Thesis+Research+%26+System+Security;>_+Initiating+secure+connection..._" alt="Terminal Header" style="border-radius: 8px; border: 1px solid #00FF00; box-shadow: 0 0 10px #00FF00;"/>
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>✨ About Me</h3>
+  <!-- Animazione Cyber: Nodi di rete / Dati in movimento -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Cyber Network Animation" style="border-radius: 10px;"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🟢 About My Research</h3>
   <p>
     I am a <b>Master's Candidate in Cybersecurity</b>.<br>
-    Currently focusing on my thesis research, exploring advanced security challenges and mitigation strategies.<br>
-    This space serves as a structured archive of my academic journey, algorithms, and software projects. 🌸
+    Currently focusing on my thesis research, exploring advanced security challenges, threat mitigation, and system defense.<br>
+    This space serves as a structured archive of my academic journey, algorithms, and software projects. 🛡️
   </p>
 </div>
 
@@ -24,19 +28,14 @@
 <div align="center">
   <h3>💻 Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <!-- Icone minimaliste e precise -->
+    <!-- Icone mantenute scure per il contrasto -->
     <img src="https://skillicons.dev/icons?i=py,cpp,linux,bash,git,java,c,sqlite&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
 <br><br>
 
-<div align="left">
-  <!-- Gattino stabile (Se non dovesse caricare, ricorda che l'unico modo per averlo fisso è scaricarlo e caricarlo nel repo come cat.gif) -->
-  <img src="https://media.tenor.com/bZeNTBBlxL8AAAAi/pixel-cat-cat.gif" width="60" alt="Cat" />
-</div>
-
 <div align="center">
-  <!-- Onda di chiusura -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0-ff69b4,100-ffc0cb&height=120&section=footer" width="100%" alt="Footer" />
+  <!-- Separatore animato verde neon (Twinkling) -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF00&height=50&section=footer&text=========================================&fontSize=20&animation=twinkling" alt="Separator" />
 </div>
